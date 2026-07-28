@@ -1,0 +1,194 @@
+[
+  {
+    "name": "TheMoviesBoss",
+    "pluginUrl": "https://raw.githubusercontent.com/code9xrs-hub/Anix-Play/builds/TheMoviesBoss.cs3",
+    "version": 1,
+    "description": "Download and watch all types of movies, Hindi, Bangla, Regional & Anime",
+    "authors": ["Redowan"],
+    "status": 1,
+    "tvTypes": ["Movie", "TvSeries", "Anime"],
+    "language": "hi",
+    "iconUrl": "https://ww2.themoviesboss.blog/wp-content/uploads/2025/04/cropped-favicon2-192x192.png"
+  },
+  {
+    "name": "HindiAnimeZone",
+    "pluginUrl": "https://raw.githubusercontent.com/code9xrs-hub/Anix-Play/builds/HindiAnimeZone.cs3",
+    "version": 1,
+    "description": "Hindi Dubbed Anime & Cartoons in 480p, 720p, 1080p & 4K HD across Hindi, Tamil, Telugu, Malayalam, Bengali & English",
+    "authors": ["Redowan"],
+    "status": 1,
+    "tvTypes": ["Anime", "TvSeries", "Movie"],
+    "language": "hi",
+    "iconUrl": "https://hindianimezone.me/wp-content/uploads/2025/12/Screenshot_2025-12-06_162747-removebg-preview-300x298.png"
+  },
+  {
+    "name": "TheMoviesFlix",
+    "pluginUrl": "https://raw.githubusercontent.com/code9xrs-hub/Anix-Play/builds/TheMoviesFlix.cs3",
+    "version": 4,
+    "description": "720p Movies, 1080p movies, Dual Audio Movies, Hindi Dubbed Series, Hollywood Movies",
+    "authors": ["salman731,Redowan"],
+    "status": 1,
+    "tvTypes": ["Movie", "TvSeries", "NSFW"],
+    "language": "hi"
+  },
+  {
+    "name": "9kMovies",
+    "pluginUrl": "https://raw.githubusercontent.com/code9xrs-hub/Anix-Play/builds/9kMovies.cs3",
+    "version": 1,
+    "description": "9kMovies extension",
+    "authors": ["Redowan"],
+    "status": 1,
+    "tvTypes": ["Movie", "TvSeries"],
+    "language": "hi"
+  },
+  {
+    "name": "WatchMoviesPk",
+    "pluginUrl": "https://raw.githubusercontent.com/code9xrs-hub/Anix-Play/builds/WatchMoviesPk.cs3",
+    "version": 1,
+    "description": "WatchMoviesPk extension",
+    "authors": ["Redowan"],
+    "status": 1,
+    "tvTypes": ["Movie", "TvSeries"],
+    "language": "hi"
+  },
+  {
+    "name": "MoviPK",
+    "pluginUrl": "https://raw.githubusercontent.com/code9xrs-hub/Anix-Play/builds/MoviPK.cs3",
+    "version": 1,
+    "description": "MoviPK extension",
+    "authors": ["Redowan"],
+    "status": 1,
+    "tvTypes": ["Movie", "TvSeries"],
+    "language": "hi"
+  },
+  {
+    "name": "Mp4Moviez",
+    "pluginUrl": "https://raw.githubusercontent.com/code9xrs-hub/Anix-Play/builds/Mp4Moviez.cs3",
+    "version": 1,
+    "description": "Mp4Moviez extension",
+    "authors": ["Redowan"],
+    "status": 1,
+    "tvTypes": ["Movie", "TvSeries"],
+    "language": "hi"
+  },
+  {
+    "name": "FullyMaza",
+    "pluginUrl": "https://raw.githubusercontent.com/code9xrs-hub/Anix-Play/builds/FullyMaza.cs3",
+    "version": 1,
+    "description": "FullyMaza extension",
+    "authors": ["Redowan"],
+    "status": 1,
+    "tvTypes": ["Movie", "TvSeries"],
+    "language": "hi"
+  },
+  {
+    "name": "FullReplays",
+    "pluginUrl": "https://raw.githubusercontent.com/code9xrs-hub/Anix-Play/builds/FullReplays.cs3",
+    "version": 1,
+    "description": "FullReplays extension",
+    "authors": ["Redowan"],
+    "status": 1,
+    "tvTypes": ["TvSeries"],
+    "language": "en"
+  },
+  {
+    "name": "FootReplays",
+    "pluginUrl": "https://raw.githubusercontent.com/code9xrs-hub/Anix-Play/builds/FootReplays.cs3",
+    "version": 1,
+    "description": "FootReplays extension",
+    "authors": ["Redowan"],
+    "status": 1,
+    "tvTypes": ["TvSeries"],
+    "language": "en"
+  },
+  {
+    "name": "EmwBD",
+    "pluginUrl": "https://raw.githubusercontent.com/code9xrs-hub/Anix-Play/builds/EmwBD.cs3",
+    "version": 1,
+    "description": "EmwBD BDIX FTP extension",
+    "authors": ["Redowan"],
+    "status": 1,
+    "tvTypes": ["Movie", "TvSeries"],
+    "language": "bn"
+  },
+  {
+    "name": "BdixDhakaFlix",
+    "pluginUrl": "https://raw.githubusercontent.com/code9xrs-hub/Anix-Play/builds/BdixDhakaFlix.cs3",
+    "version": 1,
+    "description": "DhakaFlix BDIX FTP extension",
+    "authors": ["Redowan"],
+    "status": 1,
+    "tvTypes": ["Movie", "TvSeries"],
+    "language": "bn"
+  },
+  {
+    "name": "BdixDflix",
+    "pluginUrl": "https://raw.githubusercontent.com/code9xrs-hub/Anix-Play/builds/BdixDflix.cs3",
+    "version": 1,
+    "description": "Dflix BDIX FTP extension",
+    "authors": ["Redowan"],
+    "status": 1,
+    "tvTypes": ["Movie", "TvSeries"],
+    "language": "bn"
+  },
+  {
+    "name": "BdixCloudTV",
+    "pluginUrl": "https://raw.githubusercontent.com/code9xrs-hub/Anix-Play/builds/BdixCloudTV.cs3",
+    "version": 1,
+    "description": "CloudTV Live TV extension",
+    "authors": ["Redowan"],
+    "status": 1,
+    "tvTypes": ["Live"],
+    "language": "bn"
+  },
+  {
+    "name": "BdixCircleftp",
+    "pluginUrl": "https://raw.githubusercontent.com/code9xrs-hub/Anix-Play/builds/BdixCircleftp.cs3",
+    "version": 1,
+    "description": "CircleFTP BDIX extension",
+    "authors": ["Redowan"],
+    "status": 1,
+    "tvTypes": ["Movie", "TvSeries"],
+    "language": "bn"
+  },
+  {
+    "name": "BdixBdipTV",
+    "pluginUrl": "https://raw.githubusercontent.com/code9xrs-hub/Anix-Play/builds/BdixBdipTV.cs3",
+    "version": 1,
+    "description": "BdipTV Live TV extension",
+    "authors": ["Redowan"],
+    "status": 1,
+    "tvTypes": ["Live"],
+    "language": "bn"
+  },
+  {
+    "name": "BdixRoarZoneTV",
+    "pluginUrl": "https://raw.githubusercontent.com/code9xrs-hub/Anix-Play/builds/BdixRoarZoneTV.cs3",
+    "version": 1,
+    "description": "RoarZone Live TV extension",
+    "authors": ["Redowan"],
+    "status": 1,
+    "tvTypes": ["Live"],
+    "language": "bn"
+  },
+  {
+    "name": "BdixMyMovieBazarTV",
+    "pluginUrl": "https://raw.githubusercontent.com/code9xrs-hub/Anix-Play/builds/BdixMyMovieBazarTV.cs3",
+    "version": 1,
+    "description": "MyMovieBazar Live TV extension",
+    "authors": ["Redowan"],
+    "status": 1,
+    "tvTypes": ["Live"],
+    "language": "bn"
+  },
+  {
+    "name": "BdixICCFtp",
+    "pluginUrl": "https://raw.githubusercontent.com/code9xrs-hub/Anix-Play/builds/BdixICCFtp.cs3",
+    "version": 1,
+    "description": "ICCFtp BDIX extension",
+    "authors": ["Redowan"],
+    "status": 1,
+    "tvTypes": ["Movie", "TvSeries"],
+    "language": "bn"
+  }
+]
