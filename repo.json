@@ -1,8 +1,8 @@
 {
-    "name": "Anix-Play Repository",
-    "description": "Anix-Play Extension Repository",
-    "manifestVersion": 1,
-    "pluginLists": [
-      "https://raw.githubusercontent.com/code9xrs-hub/Anix-Play/builds/plugins.json"
-    ]
+  "name": "Anix-Play Repository",
+  "description": "Anix-Play Extension Repository",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/code9xrs-hub/Anix-Play/builds/plugins.json"
+  ]
 }
