@@ -1,8 +1,8 @@
 {
-    "name": "Redowan's BDIX repository",
-    "description": "Redowan's BDIX repository",
+    "name": "Anix-Play Repository",
+    "description": "Anix-Play Extension Repository",
     "manifestVersion": 1,
     "pluginLists": [
-      "https://raw.githubusercontent.com/redowan99/Redowan-CloudStream/builds/plugins.json"
+      "https://raw.githubusercontent.com/code9xrs-hub/Anix-Play/builds/plugins.json"
     ]
 }
