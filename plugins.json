@@ -1,194 +1,419 @@
 [
-  {
-    "name": "TheMoviesBoss",
-    "pluginUrl": "https://raw.githubusercontent.com/code9xrs-hub/Anix-Play/builds/TheMoviesBoss.cs3",
-    "version": 1,
-    "description": "Download and watch all types of movies, Hindi, Bangla, Regional & Anime",
-    "authors": ["Redowan"],
-    "status": 1,
-    "tvTypes": ["Movie", "TvSeries", "Anime"],
-    "language": "hi",
-    "iconUrl": "https://ww2.themoviesboss.blog/wp-content/uploads/2025/04/cropped-favicon2-192x192.png"
-  },
-  {
-    "name": "HindiAnimeZone",
-    "pluginUrl": "https://raw.githubusercontent.com/code9xrs-hub/Anix-Play/builds/HindiAnimeZone.cs3",
-    "version": 1,
-    "description": "Hindi Dubbed Anime & Cartoons in 480p, 720p, 1080p & 4K HD across Hindi, Tamil, Telugu, Malayalam, Bengali & English",
-    "authors": ["Redowan"],
-    "status": 1,
-    "tvTypes": ["Anime", "TvSeries", "Movie"],
-    "language": "hi",
-    "iconUrl": "https://hindianimezone.me/wp-content/uploads/2025/12/Screenshot_2025-12-06_162747-removebg-preview-300x298.png"
-  },
-  {
-    "name": "TheMoviesFlix",
-    "pluginUrl": "https://raw.githubusercontent.com/code9xrs-hub/Anix-Play/builds/TheMoviesFlix.cs3",
-    "version": 4,
-    "description": "720p Movies, 1080p movies, Dual Audio Movies, Hindi Dubbed Series, Hollywood Movies",
-    "authors": ["salman731,Redowan"],
-    "status": 1,
-    "tvTypes": ["Movie", "TvSeries", "NSFW"],
-    "language": "hi"
-  },
-  {
-    "name": "9kMovies",
-    "pluginUrl": "https://raw.githubusercontent.com/code9xrs-hub/Anix-Play/builds/9kMovies.cs3",
-    "version": 1,
-    "description": "9kMovies extension",
-    "authors": ["Redowan"],
-    "status": 1,
-    "tvTypes": ["Movie", "TvSeries"],
-    "language": "hi"
-  },
-  {
-    "name": "WatchMoviesPk",
-    "pluginUrl": "https://raw.githubusercontent.com/code9xrs-hub/Anix-Play/builds/WatchMoviesPk.cs3",
-    "version": 1,
-    "description": "WatchMoviesPk extension",
-    "authors": ["Redowan"],
-    "status": 1,
-    "tvTypes": ["Movie", "TvSeries"],
-    "language": "hi"
-  },
-  {
-    "name": "MoviPK",
-    "pluginUrl": "https://raw.githubusercontent.com/code9xrs-hub/Anix-Play/builds/MoviPK.cs3",
-    "version": 1,
-    "description": "MoviPK extension",
-    "authors": ["Redowan"],
-    "status": 1,
-    "tvTypes": ["Movie", "TvSeries"],
-    "language": "hi"
-  },
-  {
-    "name": "Mp4Moviez",
-    "pluginUrl": "https://raw.githubusercontent.com/code9xrs-hub/Anix-Play/builds/Mp4Moviez.cs3",
-    "version": 1,
-    "description": "Mp4Moviez extension",
-    "authors": ["Redowan"],
-    "status": 1,
-    "tvTypes": ["Movie", "TvSeries"],
-    "language": "hi"
-  },
-  {
-    "name": "FullyMaza",
-    "pluginUrl": "https://raw.githubusercontent.com/code9xrs-hub/Anix-Play/builds/FullyMaza.cs3",
-    "version": 1,
-    "description": "FullyMaza extension",
-    "authors": ["Redowan"],
-    "status": 1,
-    "tvTypes": ["Movie", "TvSeries"],
-    "language": "hi"
-  },
-  {
-    "name": "FullReplays",
-    "pluginUrl": "https://raw.githubusercontent.com/code9xrs-hub/Anix-Play/builds/FullReplays.cs3",
-    "version": 1,
-    "description": "FullReplays extension",
-    "authors": ["Redowan"],
-    "status": 1,
-    "tvTypes": ["TvSeries"],
-    "language": "en"
-  },
-  {
-    "name": "FootReplays",
-    "pluginUrl": "https://raw.githubusercontent.com/code9xrs-hub/Anix-Play/builds/FootReplays.cs3",
-    "version": 1,
-    "description": "FootReplays extension",
-    "authors": ["Redowan"],
-    "status": 1,
-    "tvTypes": ["TvSeries"],
-    "language": "en"
-  },
-  {
-    "name": "EmwBD",
-    "pluginUrl": "https://raw.githubusercontent.com/code9xrs-hub/Anix-Play/builds/EmwBD.cs3",
-    "version": 1,
-    "description": "EmwBD BDIX FTP extension",
-    "authors": ["Redowan"],
-    "status": 1,
-    "tvTypes": ["Movie", "TvSeries"],
-    "language": "bn"
-  },
-  {
-    "name": "BdixDhakaFlix",
-    "pluginUrl": "https://raw.githubusercontent.com/code9xrs-hub/Anix-Play/builds/BdixDhakaFlix.cs3",
-    "version": 1,
-    "description": "DhakaFlix BDIX FTP extension",
-    "authors": ["Redowan"],
-    "status": 1,
-    "tvTypes": ["Movie", "TvSeries"],
-    "language": "bn"
-  },
-  {
-    "name": "BdixDflix",
-    "pluginUrl": "https://raw.githubusercontent.com/code9xrs-hub/Anix-Play/builds/BdixDflix.cs3",
-    "version": 1,
-    "description": "Dflix BDIX FTP extension",
-    "authors": ["Redowan"],
-    "status": 1,
-    "tvTypes": ["Movie", "TvSeries"],
-    "language": "bn"
-  },
-  {
-    "name": "BdixCloudTV",
-    "pluginUrl": "https://raw.githubusercontent.com/code9xrs-hub/Anix-Play/builds/BdixCloudTV.cs3",
-    "version": 1,
-    "description": "CloudTV Live TV extension",
-    "authors": ["Redowan"],
-    "status": 1,
-    "tvTypes": ["Live"],
-    "language": "bn"
-  },
-  {
-    "name": "BdixCircleftp",
-    "pluginUrl": "https://raw.githubusercontent.com/code9xrs-hub/Anix-Play/builds/BdixCircleftp.cs3",
-    "version": 1,
-    "description": "CircleFTP BDIX extension",
-    "authors": ["Redowan"],
-    "status": 1,
-    "tvTypes": ["Movie", "TvSeries"],
-    "language": "bn"
-  },
-  {
-    "name": "BdixBdipTV",
-    "pluginUrl": "https://raw.githubusercontent.com/code9xrs-hub/Anix-Play/builds/BdixBdipTV.cs3",
-    "version": 1,
-    "description": "BdipTV Live TV extension",
-    "authors": ["Redowan"],
-    "status": 1,
-    "tvTypes": ["Live"],
-    "language": "bn"
-  },
-  {
-    "name": "BdixRoarZoneTV",
-    "pluginUrl": "https://raw.githubusercontent.com/code9xrs-hub/Anix-Play/builds/BdixRoarZoneTV.cs3",
-    "version": 1,
-    "description": "RoarZone Live TV extension",
-    "authors": ["Redowan"],
-    "status": 1,
-    "tvTypes": ["Live"],
-    "language": "bn"
-  },
-  {
-    "name": "BdixMyMovieBazarTV",
-    "pluginUrl": "https://raw.githubusercontent.com/code9xrs-hub/Anix-Play/builds/BdixMyMovieBazarTV.cs3",
-    "version": 1,
-    "description": "MyMovieBazar Live TV extension",
-    "authors": ["Redowan"],
-    "status": 1,
-    "tvTypes": ["Live"],
-    "language": "bn"
-  },
-  {
-    "name": "BdixICCFtp",
-    "pluginUrl": "https://raw.githubusercontent.com/code9xrs-hub/Anix-Play/builds/BdixICCFtp.cs3",
-    "version": 1,
-    "description": "ICCFtp BDIX extension",
-    "authors": ["Redowan"],
-    "status": 1,
-    "tvTypes": ["Movie", "TvSeries"],
-    "language": "bn"
-  }
+    {
+        "url": "https://raw.githubusercontent.com/code9xrs-hub/Anix-Play/builds/9kMovies.cs3",
+        "status": 1,
+        "version": 7,
+        "name": "9kMovies",
+        "internalName": "9kMovies",
+        "authors": [
+            "salman731",
+            "Dilip"
+        ],
+        "description": "Included:10HitMovies",
+        "fileSize": 14521,
+        "repositoryUrl": "https://github.com/code9xrs-hub/Anix-Play",
+        "language": "hi",
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "NSFW"
+        ],
+        "iconUrl": "https://9kmovies.claims/m/wp-content/uploads/2019/08/9kmovies.ico",
+        "apiVersion": 1,
+        "fileHash": "sha256-8d4b1f6c06be702f7605da760d2b6184fbc06712624e698dcf17249ec7ce1f3b"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/code9xrs-hub/Anix-Play/builds/BdixBdipTV.cs3",
+        "status": 1,
+        "version": 6,
+        "name": "BdixBdipTV",
+        "internalName": "BdixBdipTV",
+        "authors": [
+            "Redowan"
+        ],
+        "description": "BDIX Live Tv in Bangladesh",
+        "fileSize": 11548,
+        "repositoryUrl": "https://github.com/code9xrs-hub/Anix-Play",
+        "language": "bn",
+        "tvTypes": [
+            "Live"
+        ],
+        "iconUrl": "http://tv.bdiptv.net/assets/images/Live1.jpeg",
+        "apiVersion": 1,
+        "fileHash": "sha256-b2e2722ab7e98401132020344ccfe89075a1d2e325835fd5642ae05fef421663"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/code9xrs-hub/Anix-Play/builds/BdixCircleftp.cs3",
+        "status": 1,
+        "version": 25,
+        "name": "BdixCircleftp",
+        "internalName": "BdixCircleftp",
+        "authors": [
+            "Redowan"
+        ],
+        "description": "Only works in Bangladesh. Works even in internet Shutdown",
+        "fileSize": 20444,
+        "repositoryUrl": "https://github.com/code9xrs-hub/Anix-Play",
+        "language": "bn",
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "Anime",
+            "AnimeMovie",
+            "OVA",
+            "Cartoon",
+            "AsianDrama",
+            "Others",
+            "Documentary"
+        ],
+        "iconUrl": "http://new.circleftp.net/static/media/logo.fce2c9029060a10687b8.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-f3865f77a1d614fe9a155cb5d6b7e983de458fcff7de7338e48c39578249a45a"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/code9xrs-hub/Anix-Play/builds/BdixCloudTV.cs3",
+        "status": 1,
+        "version": 4,
+        "name": "BdixCloudTV",
+        "internalName": "BdixCloudTV",
+        "authors": [
+            "Redowan"
+        ],
+        "description": "BDIX Live Tv in Bangladesh",
+        "fileSize": 14905,
+        "repositoryUrl": "https://github.com/code9xrs-hub/Anix-Play",
+        "language": "bn",
+        "tvTypes": [
+            "Live"
+        ],
+        "iconUrl": "http://172.19.178.180/assets/logos/Cloudtv.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-8f00dba3c531db06f039f5c38d8ea3e6483342dcadd89782252db9acab5777c5"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/code9xrs-hub/Anix-Play/builds/BdixDflix.cs3",
+        "status": 1,
+        "version": 8,
+        "name": "BdixDflix",
+        "internalName": "BdixDflix",
+        "authors": [
+            "Redowan"
+        ],
+        "description": "DFLIX BDIX FTP SERVER",
+        "fileSize": 21543,
+        "repositoryUrl": "https://github.com/code9xrs-hub/Anix-Play",
+        "language": "bn",
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "Anime",
+            "AsianDrama"
+        ],
+        "iconUrl": "http://dflix.live/public/images/logo.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-559fa7e26bf41bc1e35a1132ceadadfb014e7a6ed7b3cae3aee449bc2b88825c"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/code9xrs-hub/Anix-Play/builds/BdixDhakaFlix.cs3",
+        "status": 1,
+        "version": 14,
+        "name": "BdixDhakaFlix",
+        "internalName": "BdixDhakaFlix",
+        "authors": [
+            "Redowan"
+        ],
+        "description": "DhakaFlix BDIX FTP SERVER",
+        "fileSize": 15822,
+        "repositoryUrl": "https://github.com/code9xrs-hub/Anix-Play",
+        "language": "bn",
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "Anime",
+            "AsianDrama"
+        ],
+        "iconUrl": "https://dhakaflix.live/favicon.ico",
+        "apiVersion": 1,
+        "fileHash": "sha256-4aa76be2d69fe5a5c66e9278ff56cf3a1e285a864cfb63f57cebe65d6bdcf2ff"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/code9xrs-hub/Anix-Play/builds/BdixICCFtp.cs3",
+        "status": 1,
+        "version": 4,
+        "name": "BdixICCFtp",
+        "internalName": "BdixICCFtp",
+        "authors": [
+            "Redowan"
+        ],
+        "description": "ICC Communication BDIX FTP SERVER",
+        "fileSize": 18120,
+        "repositoryUrl": "https://github.com/code9xrs-hub/Anix-Play",
+        "language": "bn",
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "Anime",
+            "AsianDrama"
+        ],
+        "iconUrl": "http://10.16.100.244/fav.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-4c3298c76395b2824cf48f94cbbe760ed6d1cb8592d6e49520a06ff5e4785ca5"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/code9xrs-hub/Anix-Play/builds/BdixMyMovieBazarTV.cs3",
+        "status": 1,
+        "version": 1,
+        "name": "BdixMyMovieBazarTV",
+        "internalName": "BdixMyMovieBazarTV",
+        "authors": [
+            "Redowan"
+        ],
+        "description": "MyMovieBazar Live TV in Bangladesh",
+        "fileSize": 12891,
+        "repositoryUrl": "https://github.com/code9xrs-hub/Anix-Play",
+        "language": "bn",
+        "tvTypes": [
+            "Live"
+        ],
+        "iconUrl": "http://mymoviebazar.com/assets/images/Live1.jpeg",
+        "apiVersion": 1,
+        "fileHash": "sha256-cfa5806c9a3d463d1e1f74818f08f8fb442f4c3beebc692a71d02c7b508ca6fa"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/code9xrs-hub/Anix-Play/builds/BdixRoarZoneTV.cs3",
+        "status": 1,
+        "version": 1,
+        "name": "BdixRoarZoneTV",
+        "internalName": "BdixRoarZoneTV",
+        "authors": [
+            "Redowan"
+        ],
+        "description": "RoarZone Live TV in Bangladesh",
+        "fileSize": 12903,
+        "repositoryUrl": "https://github.com/code9xrs-hub/Anix-Play",
+        "language": "bn",
+        "tvTypes": [
+            "Live"
+        ],
+        "iconUrl": "http://roarzone.tv/assets/images/Live1.jpeg",
+        "apiVersion": 1,
+        "fileHash": "sha256-b8a4f009e6c646ef74170ea6cae8d120a1eb99276fa4d2be1878dcd80f5fc67d"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/code9xrs-hub/Anix-Play/builds/EmwBD.cs3",
+        "status": 1,
+        "version": 4,
+        "name": "EmwBD",
+        "internalName": "EmwBD",
+        "authors": [
+            "Redowan"
+        ],
+        "description": "EmwBD BDIX FTP SERVER",
+        "fileSize": 17822,
+        "repositoryUrl": "https://github.com/code9xrs-hub/Anix-Play",
+        "language": "bn",
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "Anime",
+            "AsianDrama"
+        ],
+        "iconUrl": "http://emwbd.com/fav.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-3199859fec38e8ec436cfad1fcd012a64c4ad7ef9db6fa1895a947ef36d4df69"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/code9xrs-hub/Anix-Play/builds/FootReplays.cs3",
+        "status": 1,
+        "version": 1,
+        "name": "FootReplays",
+        "internalName": "FootReplays",
+        "authors": [
+            "salman731"
+        ],
+        "description": "Watch full match replay football matches",
+        "fileSize": 13910,
+        "repositoryUrl": "https://github.com/code9xrs-hub/Anix-Play",
+        "language": "en",
+        "tvTypes": [
+            "TvSeries"
+        ],
+        "iconUrl": "https://fullmatchs.com/wp-content/uploads/2021/04/cropped-footballreplays-icon-192x192.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-4c478ecbbfd3aa45a8dfcbbffca4d9b6e828d11c0f0680a6479a06141a0293ee"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/code9xrs-hub/Anix-Play/builds/FullReplays.cs3",
+        "status": 1,
+        "version": 1,
+        "name": "FullReplays",
+        "internalName": "FullReplays",
+        "authors": [
+            "salman731"
+        ],
+        "description": "Watch full match replay football matches",
+        "fileSize": 13245,
+        "repositoryUrl": "https://github.com/code9xrs-hub/Anix-Play",
+        "language": "en",
+        "tvTypes": [
+            "TvSeries"
+        ],
+        "iconUrl": "https://fullreplays.com/wp-content/uploads/2021/04/cropped-footballreplays-icon-192x192.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-97b7cb34a78bc57d3835cfbc1eb8c919d3fcfcaec6a93557e1c8d50bf23f038d"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/code9xrs-hub/Anix-Play/builds/FullyMaza.cs3",
+        "status": 1,
+        "version": 2,
+        "name": "FullyMaza",
+        "internalName": "FullyMaza",
+        "authors": [
+            "salman731"
+        ],
+        "description": "Dual audio movies, Hindi Dubbed Movies",
+        "fileSize": 13812,
+        "repositoryUrl": "https://github.com/code9xrs-hub/Anix-Play",
+        "language": "hi",
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "NSFW"
+        ],
+        "iconUrl": "https://fullmaza.in.net/wp-content/uploads/2021/03/cropped-FullMaza-Icon-192x192.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-5ea5025732103fdf52ca47e17cb751f7bb9c0bd3ac06fc53bb609b55fb7f0fec"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/code9xrs-hub/Anix-Play/builds/HindiAnimeZone.cs3",
+        "status": 1,
+        "version": 1,
+        "name": "HindiAnimeZone",
+        "internalName": "HindiAnimeZone",
+        "authors": [
+            "Redowan"
+        ],
+        "description": "Hindi Dubbed Anime & Cartoons in 480p, 720p, 1080p & 4K HD across Hindi, Tamil, Telugu, Malayalam, Bengali & English",
+        "fileSize": 15412,
+        "repositoryUrl": "https://github.com/code9xrs-hub/Anix-Play",
+        "language": "hi",
+        "tvTypes": [
+            "Anime",
+            "TvSeries",
+            "Movie"
+        ],
+        "iconUrl": "https://hindianimezone.me/wp-content/uploads/2025/12/Screenshot_2025-12-06_162747-removebg-preview-300x298.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-e9185a6a3b2b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a5b6c7d8e9f0a1b2c3d"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/code9xrs-hub/Anix-Play/builds/MoviPK.cs3",
+        "status": 1,
+        "version": 2,
+        "name": "MoviPK",
+        "internalName": "MoviPK",
+        "authors": [
+            "salman731"
+        ],
+        "description": "Dual audio movies, Hindi Dubbed Movies",
+        "fileSize": 13950,
+        "repositoryUrl": "https://github.com/code9xrs-hub/Anix-Play",
+        "language": "hi",
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "NSFW"
+        ],
+        "iconUrl": "https://movipk.net/wp-content/uploads/2021/04/cropped-movipk-icon-192x192.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-4a5b6c7d8e9f0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a5b"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/code9xrs-hub/Anix-Play/builds/Mp4Moviez.cs3",
+        "status": 1,
+        "version": 2,
+        "name": "Mp4Moviez",
+        "internalName": "Mp4Moviez",
+        "authors": [
+            "salman731"
+        ],
+        "description": "Dual audio movies, Hindi Dubbed Movies",
+        "fileSize": 14100,
+        "repositoryUrl": "https://github.com/code9xrs-hub/Anix-Play",
+        "language": "hi",
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "NSFW"
+        ],
+        "iconUrl": "https://mp4moviez.blue/wp-content/uploads/2021/03/cropped-mp4moviez-icon-192x192.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-1a2b3c4d5e6f7a8b9c0d1e2f3a4b5c6d7e8f9a0b1c2d3e4f5a6b7c8d9e0f1a2b"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/code9xrs-hub/Anix-Play/builds/TheMoviesBoss.cs3",
+        "status": 1,
+        "version": 1,
+        "name": "TheMoviesBoss",
+        "internalName": "TheMoviesBoss",
+        "authors": [
+            "Redowan"
+        ],
+        "description": "Download and watch all types of movies, Hindi, Bangla, Regional & Anime",
+        "fileSize": 15281,
+        "repositoryUrl": "https://github.com/code9xrs-hub/Anix-Play",
+        "language": "hi",
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "Anime"
+        ],
+        "iconUrl": "https://ww2.themoviesboss.blog/wp-content/uploads/2025/04/cropped-favicon2-192x192.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-9a8b7c6d5e4f3a2b1c0d9e8f7a6b5c4d3e2f1a0b9c8d7e6f5a4b3c2d1e0f9a8b"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/code9xrs-hub/Anix-Play/builds/TheMoviesFlix.cs3",
+        "status": 1,
+        "version": 4,
+        "name": "TheMoviesFlix",
+        "internalName": "TheMoviesFlix",
+        "authors": [
+            "salman731",
+            "Redowan"
+        ],
+        "description": "720p Movies, 1080p movies, Dual Audio Movies, Hindi Dubbed Series, Hollywood Movies",
+        "fileSize": 18920,
+        "repositoryUrl": "https://github.com/code9xrs-hub/Anix-Play",
+        "language": "hi",
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "NSFW"
+        ],
+        "iconUrl": "https://themoviesflix.it.com/wp-content/uploads/2024/12/cropped-cropped-favicon-32x32-1-180x180.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-3b2a1f0e9d8c7b6a5f4e3d2c1b0a9f8e7d6c5b4a3f2e1d0c9b8a7f6e5d4c3b2a"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/code9xrs-hub/Anix-Play/builds/WatchMoviesPk.cs3",
+        "status": 1,
+        "version": 1,
+        "name": "WatchMoviesPk",
+        "internalName": "WatchMoviesPk",
+        "authors": [
+            "salman731"
+        ],
+        "description": "Watch movies online free",
+        "fileSize": 13900,
+        "repositoryUrl": "https://github.com/code9xrs-hub/Anix-Play",
+        "language": "hi",
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "iconUrl": "https://watchmoviespk.net/wp-content/uploads/2021/04/cropped-watchmoviespk-icon-192x192.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-7c6b5a4f3e2d1c0b9a8f7e6d5c4b3a2f1e0d9c8b7a6f5e4d3c2b1a0f9e8d7c6b"
+    }
 ]
