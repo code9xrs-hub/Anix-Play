@@ -49,7 +49,7 @@ subprojects {
     apply(plugin = "com.lagradost.cloudstream3.gradle")
 
     cloudstream {
-        setRepo(System.getenv("GITHUB_REPOSITORY") ?: "https://github.com/redowan99/Redowan-CloudStream")
+        setRepo(System.getenv("GITHUB_REPOSITORY") ?: "https://github.com/code9xrs-hub/Anix-Play")
         authors = listOf("Redowan")
     }
 

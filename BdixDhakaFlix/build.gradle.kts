@@ -36,4 +36,4 @@ cloudstream {
     )
     language = "bn"
 
-    iconUrl = "https://raw.githubusercontent.com/redowan99/Redowan-CloudStream/refs/heads/master/BdixDhakaFlix/icon.jpg"}
+    iconUrl = "https://raw.githubusercontent.com/code9xrs-hub/Anix-Play/refs/heads/master/BdixDhakaFlix/icon.jpg"}
